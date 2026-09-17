@@ -1,0 +1,10 @@
+<Solution>
+  <Folder Name="/tests/">
+    <Project Path="tests/Customer.IntegrationTests/Customer.IntegrationTests.csproj" />
+    <Project Path="tests/Customer.UnitTests/Customer.UnitTests.csproj" />
+  </Folder>
+  <Project Path="Customer.Api/Customer.Api.csproj" />
+  <Project Path="Customer.Application/Customer.Application.csproj" />
+  <Project Path="Customer.Domain/Customer.Domain.csproj" />
+  <Project Path="Customer.Infrastructure/Customer.Infrastructure.csproj" />
+</Solution>
